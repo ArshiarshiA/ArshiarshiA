@@ -21,12 +21,12 @@ hello Developers :eyes:
 
 
 <p align='center'>
-  <img style='width:230px;' src='./gits/html.webp' />
-  <img style='width:230px;' src='./gits/cssgif.webp' />
-  <img src='./gits/js.webp' />
-  <img src='./gits/react.webp' />
-  <img src='./gits/vue.webp' />
-  <img src='./gits/python.webp' />
+  <img style='width:130px;' src='./gits/html.webp' />
+  <img style='width:130px;' src='./gits/cssgif.webp' />
+  <img style='width:130px;' src='./gits/js.webp' />
+  <img style='width:130px;' src='./gits/react.webp' />
+  <img style='width:130px;' src='./gits/vue.webp' />
+  <img style='width:130px;' src='./gits/python.webp' />
 </p>
 
 ![](./gits/)
