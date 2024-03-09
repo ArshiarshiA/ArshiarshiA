@@ -3,7 +3,7 @@
 </p>
 
 <h1 align=center>
-   stop eating my activity :(
+   stop eating my activity :)
 </h1>
 
 ![snake](./gits/github-contribution-grid-snake.svg)
