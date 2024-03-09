@@ -29,4 +29,11 @@ hello Developers :eyes:
   <img style='width:130px;' src='./gits/python.webp' />
 </p>
 
-![](./gits/)
+
+<p align='center'>
+   <img style='width:130px;' src='./gits/c-sharp-c-icon-456x512-9sej0lrz.png'>   
+   <img style='width:145px;' src='gits/c++.png'>
+   <img style='width:130px;' src='./gits/node-js.png'>
+   <img style='width:130px; border-radius:50%;' src='./gits/typescipt.png'>
+   <img style='width:130px; border-radius:50%;' src='./gits/jquery.png'>
+</p>
