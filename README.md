@@ -1,6 +1,6 @@
-<!-- <p align='center'>
+<p align='center'>
    <img src='./gits/animated-hello.gif'/>
-</p> -->
+</p>
 
 ---
 
