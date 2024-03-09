@@ -11,18 +11,18 @@
 <br>
 
 
-### hello Developers :eyes:
+## hello Developers :eyes:
 
 <br>
 
-<p align='center' style="font-size: 20px">
+<p align='center' style="font-size: 35px">
   :books: I will not stop learning from : 
 </p>
 
 
 <p align='center'>
-  <img src='./gits/html.webp' />
-  <img src='./gits/cssgif.webp' />
+  <img style='width:220px;' src='./gits/html.webp' />
+  <img style='width:220px;' src='./gits/cssgif.webp' />
   <img src='./gits/js.webp' />
   <img src='./gits/react.webp' />
   <img src='./gits/vue.webp' />
