@@ -15,7 +15,7 @@
 
 <br>
 
-<p align='center' style="font-size: 55px">
+<p align='center' style="font-size: 300px">
   :books: I will not stop learning from : 
 </p>
 
