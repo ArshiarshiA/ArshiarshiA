@@ -11,9 +11,8 @@
 <br>
 
 
-# hello Developers :eyes:
+hello Developers :eyes:
 
-<br>
 
 <h1 align='center' style='border:0;'>
   :books: I will not stop learning from : 
@@ -29,3 +28,5 @@
   <img src='./gits/vue.webp' />
   <img src='./gits/python.webp' />
 </p>
+
+![](./gits/)
