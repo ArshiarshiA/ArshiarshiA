@@ -15,9 +15,9 @@
 
 <br>
 
-<p align='center' style="font-size: 600px;">
+<h1 align='center' style='border:0;'>
   :books: I will not stop learning from : 
-</p>
+</h1>
   
 
 
