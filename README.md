@@ -1,5 +1,5 @@
 <p align='center'>
-   <img src='./gits/hello wordl blak.png'/>
+   <img src='./gits/animated-hello.gif'/>
 </p>
 
 ## You can see my snake below :)  :point_down: 
