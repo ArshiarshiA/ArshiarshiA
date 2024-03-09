@@ -21,8 +21,8 @@ hello Developers :eyes:
 
 
 <p align='center'>
-  <img style='width:130px;' src='./gits/html.webp' />
-  <img style='width:130px;' src='./gits/cssgif.webp' />
+  <img style='width:140px;' src='./gits/html.webp' />
+  <img style='width:140px;' src='./gits/cssgif.webp' />
   <img style='width:130px;' src='./gits/js.webp' />
   <img style='width:130px;' src='./gits/react.webp' />
   <img style='width:130px;' src='./gits/vue.webp' />
