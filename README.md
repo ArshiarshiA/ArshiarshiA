@@ -1,4 +1,4 @@
-![Hello World](./gits/hello-world.gif)
+![Hello World](./gits/coding.gif)
 
 ## You can see my snake below :)  :point_down:
 
