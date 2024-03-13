@@ -8,11 +8,6 @@
 
 ![snake](./gits/github-contribution-grid-snake.svg)
 
-<br>
-
-
-## hello Developers :eyes:
-
 
 <h1 align='center' style='border:0;'>
   :books: I will not stop learning from : 
