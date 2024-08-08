@@ -1,5 +1,5 @@
 <p align='center'>
-   <img src='./gits/animated-hello.gif'/>
+   <img src='./gits/coding.gif'/>
 </p>
 
 <h1 align=center>
