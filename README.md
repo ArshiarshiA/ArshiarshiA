@@ -8,11 +8,14 @@
 
 ![snake](./gits/github-contribution-grid-snake.svg)
 
+- Progressive with technology, of course, I will never reach it :anger:
+- I learn everything accessible :hear_no_evil:
+- My job is to help create visual insights :deciduous_tree:
+- I think I overdid myself too much :revolving_hearts:
 
 <h1 align='center' style='border:0;'>
   :books: I will not stop learning from : 
 </h1>
-  
 
 
 <p align='center'>
